@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.spocktests.SpockTest1" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-20T04:14:34" hostname="LAPTOP-I3UV0522" time="0.066">
+  <properties/>
+  <testcase name="should be a simple assertion" classname="com.spocktests.SpockTest1" time="0.066"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
